@@ -12,7 +12,7 @@ Hello there! 👋<br><br>I'm currently a student specializing in IT & Data Engin
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Younessboumlik&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Younessboumlik&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ### 🏅 Achievements
-- Listed as one of the top GitHub users in Morocco, currently ranked #50! Check it out [here](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/morocco.md)
+- Listed as one of the top GitHub users by public contributions in Morocco, currently ranked #50! Check it out [here](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/morocco.md)
   ![image](https://github.com/user-attachments/assets/afd045bf-bd7c-4c94-8fc2-db3d5222de77)
 
 
